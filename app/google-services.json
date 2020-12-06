@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140410190333",
+    "project_id": "global-phone-number-converter",
+    "storage_bucket": "global-phone-number-converter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140410190333:android:d9dbb4f7fc735922d34194",
+        "android_client_info": {
+          "package_name": "com.example.globalphonenumbercoverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140410190333-va5iq2le6pl7a07gpk0ph9lf5tsh885s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tQTx2I0C5q6rUa5iLGpy2FbBihAszYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140410190333-va5iq2le6pl7a07gpk0ph9lf5tsh885s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
